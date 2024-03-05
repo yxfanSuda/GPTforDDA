@@ -1,0 +1,12 @@
+jsonlines==4.0.0
+numpy==1.26.3
+openai==1.10.0
+pandas==2.2.0
+retrying==1.3.4
+rpds-py==0.18.0
+scikit-learn==1.4.0
+scipy==1.12.0
+segeval==2.0.11
+six==1.16.0
+sniffio==1.3.0
+soupsieve==2.5

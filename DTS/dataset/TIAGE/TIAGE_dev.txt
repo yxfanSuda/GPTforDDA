@@ -1,0 +1,1646 @@
+call_id_1
+0 hello what are doing today ?
+0 i am good , i just got off work and tired , i have two jobs .
+0 i just got done watching a horror movie
+0 i rather read , i have read about 20 books this year .
+0 wow ! i do love a good horror movie . loving this cooler weather
+0 but a good movie is always good .
+0 yes ! my son is in junior high and i just started letting him watch them too
+0 i work in the movies as well .
+0 neat ! ! i used to work in the human services field
+0 yes it is neat , i stunt double , it is so much fun and hard work .
+0 yes i bet you can get hurt . my wife works and i stay at home
+0 nice , i only have one parent so now i help out my mom .
+0 i bet she appreciates that very much .
+0 she raised me right , i am just like her .
+0 my dad was always busy working at home depot
+0 now that i am older home depot is my toy r us .
+call_id_2
+0 hi ! how are you doing tonight ?
+0 i am doing great . just relaxing with my two dogs .
+0 great . in my spare time i do volunteer work .
+0 that is neat . what kind of volunteer work do you do ?
+0 i work in a homeless shelter in my town .
+1 good for you . do you like vintage cars ? i have two older mustangs .
+1 cool . not really into cars . my day job is wrestling .
+1 cars are my thing . vintage cars . i love working on them . wrestling ? do you enjoy it ?
+1 yes , i love the crowds , getting to know people .
+1 i did not think about the crowd aspect of wrestling . i do not like crowds .
+1 understood . when i need to be alone , i work out a few times each week .
+2 i agree . working out is a great way to burn off steam . do you like country music ?
+2 a little bit . i can get into taylor swift .
+2 lol . she is more pop now . her old stuff was country . i like classic country .
+call_id_3
+0 hello , how are you doing ?
+0 i love spending time with my family
+0 that is great , me too ! i am married and my husband and i have 2 children .
+1 so then have you ever been to disneyland ?
+1 no , we recently purchased a new house , so we cannot afford it . have you ?
+1 yes i love mickey mouse such a cute little rat
+1 i enjoy going to concerts , i see the rolling stones every year .
+2 man your lucky i am a baby delivery nurse and the pay sucks
+2 maybe you should consider going back to school . i did . i major in economics .
+2 i have to walk 3 miles to work to save money everyday what do you do ?
+2 i mostly eat a fresh and raw diet , so i save on groceries .
+2 your economic skills are amazing
+2 thank you very much ! i am sure you are a great nurse .
+2 i am a ok nurse i have dripped some babies though but i am getting better
+call_id_4
+0 hi how are you doing ? i am okay how about you ?
+0 i am doing good . just sipping tea . what do you do for work ?
+0 i used to do home health aide but now i am disabled .
+0 i am sorry to hear that . what happened
+0 i graduated and got my license worked a while and became i will .
+1 so what do you do now for fun ? i like to read .
+1 i have dogs and i walk them . and a cat .
+1 what kind of dogs do you have ?
+1 i enjoy reading read about michael jackson and psychology today .
+1 i love reading . i have a big library at my house .
+1 that is very nice i love to read to and read about journals .
+1 i have a tough time hearing so reading is my happy place .
+2 cool that is okay . my mom was very tough on me .
+2 i work as a hearing impaired museum tour guide .
+call_id_5
+0 hi i dye my hair 4 times a year
+0 do you live in the sky ? i do . in the clouds .
+0 no i do not , i have a dream , it is to work from home
+0 i make time stop . i have a superpower . i am a super hero .
+0 that is really cool that you can do that
+0 i love living in the clouds the best . do you have powers ?
+0 no i do not , i faint when i see blood
+0 i do not like blood . i vomit .
+1 i went to school to be a vet , but i did not like it
+1 i want to be a teacher when i grow up
+2 what is your name ? are you a male or female ?
+2 i am a girl . i do not give out my name .
+2 i think a teacher is to tough
+2 i like science and art .
+call_id_6
+0 hi ! do you like turtles ?
+0 i am much more of a cat person actually
+0 i have a turtle his name is speedy . kitties are nice too , tho !
+0 that is an adorable name for a turtle . i have 2 cats
+0 what are your kitties names ?
+0 snow and winter , named after my favorite season
+1 i like that ! i go to preschool .
+1 oh you are so young !
+1 how old are you ? i turned four on my birthday !
+2 i am an old woman . i won a gold medal in 1992
+2 wow ! ! you won gold ! are you rich ?
+2 no . i spend all of my money on hats ! i own over a thousand
+2 i like hats too ! but , my favorite thing to do is play with my dollies .
+2 that is great . do you have a lot ?
+call_id_7
+0 hello , how are you tonight ? do you have pink and blue hair ?
+0 hi , i am doing pretty good these evening
+1 what do you like to do in your spare time ? i bird watch .
+1 i actually have purple hair and i love it and enjoy watching war documentaries
+2 those are fun . i have a cat , do you ?
+2 i have a bird and she loves cheeseburgers like me , my favorite
+2 is that healthy for birds ?
+2 probably not but a bite here and there i think is okay
+3 do you like the holidays ? i do not .
+3 i do love the holidays i volunteer a soup kitchen during the holiday season
+4 i get depressed . how old are you ? i am very old .
+4 oh man sorry about that , i am 33 and love giving back i grew up poor
+4 i did too , back during the great depression .
+4 oh wow , i can imagine it was a very hard time
+4 it was , but it made us strong .
+4 yes it really did , that is why i enjoy y volunteer work
+call_id_8
+0 hi , how are you doing today ?
+0 good ! you ! celebrating with fellow centenarians
+0 nice . i am playing some card games with my family .
+0 that sounds like fun . i like wine and dancing too !
+0 same . i try to get a small workout in a three mile walk for me is key .
+0 awesome ! walking like that you might live forever like me ! !
+1 that is true . my favorite way to unwind is reading a book .
+1 you sound very like minded , just add some wine
+1 which do you prefer white or red ?
+1 fermented . i prefer well aged and fermented . i could bathe in it !
+1 good choice . i always like a nice dry white wine .
+1 i think i should go grab a bottle now and get some dancing music on
+1 sounds like a good way to enjoy a sunday afternoon .
+1 yes indeed . being a centenarian you learn to appreciate these things
+call_id_9
+0 hello , are you attending church in the morning ?
+0 only if i can get a ride . i am very old and cannot drive
+0 if i lived close , i would take you . i teach sunday school .
+0 how nice . you must love kids .
+0 i do . i do not have any , my dogs are my children .
+1 would you like to know the secret to living as long as i have ?
+1 yes , please . that would be wonderful .
+1 drinking wine , and dancing in the moonlight .
+1 very nice . i do both as well .
+1 doing both of those things has helped me make it to my 100th birthday .
+1 oh wow . i hope i live as long as you !
+1 i may be old , but i am stronger than i look !
+2 very nice to hear . women are often thought of as weak .
+2 women were not even allowed to vote when i was a child .
+2 that is truly awful . thankfully , things have since changed .
+2 lots of things have changed . i remember when televisions were not a common household item .
+call_id_10
+0 hey , i enjoy mowing lawns in the summer
+0 hello . how are you ? my pet turtle and i are sitting here .
+0 my turtle and myself love to grill outside
+1 mommy says to pick up toys . i do not like to . i want to play dolls !
+2 yeah , i have been retired for a long time ! years !
+2 i want to go next door and play with my best friend , not work !
+2 yeah i wanna gamble , i go gambling when time permits
+2 shame on you ! mommy says you should not gamble !
+2 she gambled on you , and did she get a bad kid ?
+2 no she did not ! i am telling my mommy on you !
+2 tell her to get you to bed !
+2 but i want to play dollies with my best friend !
+2 well i am not gonna play dollies with you !
+2 well i do not wanna play with you either !
+2 good ! i hope you win the baby lottery !
+2 i am sorry ! do not be mad at me !
+call_id_11
+0 how are you ? i am tired of my parents bothering me , hoping to move out soon .
+0 i completely get it . my mom is way too traditional for me !
+0 i never drink or use drugs . i am 19 and just want to see my friends .
+0 i understand . when do you think you might be able to move ?
+1 not sure . i have a part time job at burger king . do you work ?
+1 i do . i coach swimming at the pool near my house .
+1 awesome . my parents are just always on me about something . are you moving soon ?
+1 i am still in school . i cannot move until i finish my degree
+2 that must be tough . what do you study ?
+2 i want to be a computer programmer . are you in school ?
+2 yes , i am studying education and working part time .
+2 that sounds interesting . do you like it ?
+2 yes , i love it . how are your courses ?
+2 they are great . i really like the challenge . what do you want to teach ?
+2 i hope to teach elementary school . how much longer until you graduate ?
+2 three more years . i feel like i wil never get out . how about you ?
+2 same for me ! looking forward to being done and out of my parents house !
+2 things are so strict . my family is from india , so they just do not get it .
+call_id_12
+0 hi . i am billy . i work as an electrician in texas
+0 i very rarely speak to people billy , because i am so famous
+0 really ? how ? i do a lot of work on my mom and dads farm .
+0 i am working on a robot so i can have company that does not annoy me .
+0 the only company i have is my pet cow .
+0 i helped design starcraft . do you have time to play games without the cow
+0 no usually . i live in the country . just drive my big truck and listen to country music .
+0 i do twitch streaming for fun , so we do not have much in common do we ?
+0 not much . i like pizza too !
+0 i like pizza , one thing in common . i live inland because i am allergic to water
+0 really ? i did not know that was possible ! how do you stay hydrated ?
+1 very carefully , did you get flooded in texas ?
+1 no . i live more north . near dallas .
+1 good ! i have not seen a person in 5 years , have my stuff delivered
+call_id_13
+0 hello . i love to read and my favorite books are the hunger games series . what about you ?
+0 hi ! i am an olympic gymnast , i do not read much .
+0 that is exciting and must allow you to travel alot . ever been to spain ?
+0 yes , i have . i picked up a lovely yellow blouse there .
+1 i hope to go back when i retire in a few years . how long before you retire ?
+1 i have another two years before i can retire from gymnastics .
+1 what are your plans after retirement ?
+1 i would like to go to culinary school , i am still young .
+1 i love to cook for my grandkids . i plan to travel more .
+1 i mainly cook italian , and garlic bread .
+1 i would love to travel to italy . i love baking cookies .
+1 i would love to be a pastry chef , i make earl grey shortbread a lot .
+1 i have never had earl grey shortbread only the tea .
+1 i put it in the shortbread .
+call_id_14
+0 hello ! i was three when i learned to play guitar !
+0 hi i enjoy disney world and go every year
+0 that is great . i really like rascal flats . i think they played there before .
+0 that is a good band . i love mickey mouse
+0 i actually grew up in the entertainment industry .
+0 i am also in the 3rd grade
+1 wow . do you like national parks ? my family and i spent summers there .
+1 no , i never have been . i like to go to the playground with friends
+2 i enjoyed that when was younger too . what is your family like ?
+2 i also like frozen the movie and sing a long with it .
+2 great ! i like music too and that is why i play guitar .
+2 that is awesome to hear !
+3 do you have a dog or cat ?
+3 no , mom said i cannot have pets when i have my own place i can .
+4 do you have any brothers or sisters ?
+4 i have a sister who is 10 years older than me
+call_id_15
+0 hello , i am sitting here with my dog . how are you ?
+0 i am well friend . looking for new employment at the moment .
+0 what would be your dream job ?
+0 a writer . i am currently an er doctor .
+0 what was the worst accident you have seen in the er ?
+0 a man had his throat slit in a home invasion
+0 that is very scary . i would rather stick to my knitting passion .
+1 i have a daughter who people say is a child prodigy
+1 what talents does she have ?
+1 math ! i hate it ! lol . do you have children ?
+1 i have two children . they also enjoy math .
+2 that is nice . what is your favorite movie ?
+2 my favorite movie is clueless .
+2 mine is friday ! although i do love clueless too !
+2 do you think they will make another friday movie ?
+2 oh i hope so ! that would be awesome .
+call_id_16
+0 hey how are you today
+0 i am busy studying psychology for my graduate school class . you ?
+0 i have retired and now spend my time as a pro gambler
+0 sounds cool ! i could be your dog walker when you are busy .
+0 well being retired i have a lot of spare time either in a casino or outdoors
+0 i love the outdoors . i can survive in the wilderness for weeks
+0 yeah me to just got back from two weeks in the bush
+0 did your parents teach you to survive like mine did ?
+0 my dad did he has his own outdoor show its possible you have seen it
+0 i may have . what is it called ?
+0 jim shockey he has survived in places all over the world
+0 i love that show ! i watch it between studying .
+0 yeah did not get to see him much as a child
+0 that must have been hard . my parents were always hiking with me .
+0 that is nice must have been fun
+0 it was fun . probably why i became a dog walker
+call_id_17
+0 hello there , how are you today ?
+0 hello ! how has your day been ?
+0 great so far preparing my kindergarten lesson for tomorrow .
+1 i only eat kosher foods
+1 what is your favorite ? i eat out alot with friends and some love kosher also .
+1 i like kosher salt a lot
+1 no salt for me , at 24 i need to establish a healthy eating lifestyle .
+1 i like kosher salt more then regular salt
+1 i am slimming down to fit into a wedding dress in spring so salt is out .
+1 you must be a hot milf
+2 ha , ha , ha . . . to young for milf . what type of music do you like ?
+2 i like your music a lot
+2 so you are a big taylor swift fan as i am ?
+2 i love my girl taylor
+2 yes she is a1 with her stuff , i love her new album . .
+2 i know i love you too
+call_id_18
+0 hi , kevin here . i love mexican food , aerosmith and nascar racing and a construction worker .
+0 i am a recording engineer myself . currently living in california
+0 great ! i wear a yellow construction worker hat to aerosmith concerts .
+0 that sounds fun . i would rather be inside though .
+1 wow ! what artists you work with ? i started working at sixteen as a construction model .
+1 no one you know probably . the market was dead last year unfortunately .
+2 oh okay . you like car racing ? i do . i also like mexican pizza .
+2 i love car racing . i am not crazy about lawyers though .
+2 me too ! i wear a yellow construction hat and my dad is a lawyer . bummer huh ?
+2 maybe he is the one that my ex left me for .
+2 oh wow . does your ex like aerosmith ? my dad and i do ?
+2 i do not think so . i own my own studio and she tried to take it .
+2 bummer ! does your ex like mexican food and fast cars ? she could be my stepmom .
+2 no she likes lies and cheating . lol
+2 funny . you think your ex would like construction workers ?
+2 i am 46 with kids , maybe she did not like that .
+call_id_19
+0 hello . my name is rob . how are you today ?
+0 my name is kelly . i am well . how are you ?
+0 i am sad today remembering my mom who died when i was a child .
+0 i am so sorry to hear that . my father also passed away . he drove for nascar .
+0 sorry to hear that . my dad is an army soldier .
+0 i thank him for his service .
+1 thank you for saying that . what do you do for fun ?
+1 i play with my german shepherd named barnaby . he is my baby .
+1 i love dogs . i play softball and i love it !
+2 i played softball years ago . i am too busy working for the us postal service .
+2 that is a good job . i work in insurance . it also keeps me busy .
+3 i live in the southwest and i am deathly afraid of scorpions . not a good mix .
+3 that sounds like quite the predicament .
+3 it is . i do like it here aside from that .
+4 how is the weather there today ? it is cloudy and cool here in boston .
+4 it is hot . but thankfully not humid today .
+call_id_20
+0 hello , how are you doing ?
+0 hello . pretty good , thanks . and yourself ?
+0 awesome , i just got back from a bike ride .
+0 cool ! do you spend a lot of time biking ?
+0 yup . its my favorite thing to do . do you ?
+0 i love playing folk music . i actually hope to be a professional musician someday
+0 that is interesting . what instruments do you play ?
+0 i can play the guitar and the piano and i also like to sing .
+0 i can only sing when i drink , but i do not like to do that anymore .
+1 i m not a big drinker either . do you have a job ?
+1 construction , like my dad . what do you do when you are not being a rock star
+1 nice ! i work as a custodian . not too glamorous but it pays the bills haha
+1 i feel ya . you gotta do what you gotta do .
+1 exactly . do you have other hobbies besides biking ?
+call_id_21
+0 hello ! where are you from ?
+0 hey ! i am from nyc what about you ?
+0 i am from a town outside vancouver .
+1 so what brings you around here ? are you here for work ?
+1 actually i am on leave right now
+2 oh okay . may i ask what your occupation is ?
+2 i serve in the canadian army , just as my grandfather did . how about you ?
+2 i went to college for chemistry , but i actually work in a bookstore now .
+2 oh that is cool . i do not like reading though
+2 i do not care for fashion as much as you dislike reading haha
+2 i hate reading so much i dropped out of high school !
+3 must be a very strong dislike then . i actually have a strange disdain toward the color orange
+3 why do you hate orange ?
+3 as a kid i was always bothered by this bright orange lamp my parents had
+3 that sounds scary . i was scared by my grandfather telling wwii stories
+3 oh man must have been traumatizing . what do you do to relieve stress ?
+call_id_22
+0 hello how are you doing ?
+0 great , how are you doing today ?
+1 i am great . what do you like to do ?
+1 watching horror movies is my favorite . how about you ?
+1 i am more into comedies .
+2 i see . what do you do for work
+2 i work at a bar . how about you ?
+2 i used to work in hr , but now i stay home with my son .
+3 that sounds very nice . how old is your kid ?
+3 he is in junior high . do you have any kids ?
+3 i do not . i am still working on building my future .
+4 what do you want to do ?
+4 i am not sure . i am still doing my gen eds .
+4 that sounds nice . do you have any family line of work that you can get in to ?
+call_id_23
+0 hey there how is it going ?
+0 hello . all is moving great . and you ?
+0 i am good just putting hair dye in
+1 alright . i work in it . if you do not mind , what work are you into ?
+1 oh right how i am between jobs
+1 the economic situation seem to be gradually picking up though
+2 cool , i am addicted to the internet
+2 since you are addicted to internet , do you watch a lot of american sports ?
+2 i play a lot of role playing games
+3 ok . do you like dogs ?
+3 yeah dogs are pretty cool
+4 do you think that the internet is pretty safe for children of late ?
+4 it can be but it ca be a danger too
+5 ok . speaking about work , i have been at the same company for about 15 years
+5 that is actually pretty impressive
+5 i kind of wonder why employees are not keen on loyalty these days
+call_id_24
+0 hello , what are you doing today ?
+0 i am thinking about my upcoming retirement . how about you ?
+0 just raising my kids , i am a homemaking dad .
+0 very cool . my kids are grown . i am already 60 years old .
+0 i am not there yet . my oldest in a junior .
+0 how old is your youngest ?
+1 she is 9 . i love them all . what work did you do before retiring ?
+1 i work as a librarian , but i am going to retire in the next couple of years .
+1 that is great , i spent ten years in human services .
+1 did you stop when your eldest was born ?
+1 yes , i had to . i am glad to be home . my father helps out too .
+1 why did you have to ?
+1 children need love , and my wife makes more money .
+2 do your children like any interesting activities ?
+2 no , we just go to home depot on the weekends . my father was manager there .
+3 do you like to travel ?
+call_id_25
+0 hello . do you know of any apartments for rent ?
+0 hi there . hmm i am not familiar with any . which area are you looking ?
+0 jacksonville . i work at burger king and do not use drugs if that helps .
+0 maybe you can expand your options if you find another career .
+0 i am only 19 . just graduated .
+0 congratulations . i work in construction , started when i was 16 . it is great money .
+0 that is cool . my friends and i work here , we are hoping to buy our own franchise .
+1 wow that is ambitious . i hope you succeed . personally i prefer mexican food over burgers .
+1 i prefer seafood . my dad makes awesome fish tacos .
+2 that sounds delicious . what type of music do you like ?
+2 metal . mainly metallica . i also love old school rap . tupac is where it is at .
+2 nice . i listen to a lot of aerosmith , they are my favorite .
+2 i like them too . dream on is one of my favorites
+3 great song . how long have you worked for burger king ?
+call_id_26
+0 hello , my name is ally and my favourite color is orange
+1 do you know the game starcraft ? i helped designing it !
+1 that s awesome , i m sure my ex boyfriend would like that game
+1 i usually stream the game on my twitch channel
+1 that s great , i also love twitch as well
+2 i am making this robot right now that looks like me !
+2 i like hiking in the morning before sunset
+2 i am kind of a nerd , i do not go out much and do not socialize .
+2 that s not bad at all
+2 the worst part about my life is that i am allergic to water
+2 that s sad how do you drink
+2 i have to drink another substance that contains particles of hydrogen and oxygen
+3 dang that kinda weird . well do you have a pet
+3 yeah i have a cat , how about you ?
+3 i do a pet fish
+3 that sounds awesome , but i have to go now , gotta start streaming . see ya !
+call_id_27
+0 hello , how are you tonight ?
+0 what state are you ? i am in california , age 46
+0 i am in ohio . 42 . single and a churchgoer . you ?
+0 i am good , and you ? i stay home all day and i like it
+0 that sounds boring . my dog would drive me crazy if i tried that .
+0 i love to go to church too , it help me deal with my ex . .
+0 my ex is straight up crazy , there is no scripture that would help him .
+0 she cheated me and stay with a lawyer
+0 that is horrible . i am single .
+0 it takes the power of god to change people , my kids are great
+0 yes , the goddess can change people .
+0 me too , i am a single dad , i do recordings in my studio
+0 that sounds like fun , what kind of music ?
+1 what do you do ? do you want to meet me ?
+1 i am sorry , i am too busy to date .
+1 i record soft rock and light jazz
+call_id_28
+0 hi there ? hows it goin ? whatcha havin for lunch today ?
+0 i am going to have pizza after meditation
+0 me , burgers and fries every day . meditation , who ! whats that like ?
+0 it is like going to a peaceful place
+1 i am at peace just bein in my house with my boyfriend . anything else you like ?
+1 i used to like to talk
+1 not anymore ? not at all ? why not ?
+1 i have been silent for months now
+1 oh , i get it . buddhist monk , eh ?
+2 something like that . where do you live
+2 in my house , with my boyfriend . how come you can chat if you cant speak ?
+2 i am not allowed to vocalize
+3 ok . where do you live ? in a monastery ?
+3 i am thinking about it
+3 any other cool thoughts ? what do you think about when you meditate ?
+3 i wish for world peace
+call_id_29
+0 hello ! how are you today ?
+0 i am good ! just finished working . you ?
+0 i am great ! i just got back from a walk with my dog ! how was work ?
+0 it was tiring . trying to get the fields harvested for winter .
+0 oh you are a farmer ? what do you grow ? winter is coming too soon !
+1 we grow corn and soybeans at my parents farm . what dog do you have ?
+1 he is a black lab named is trooper , he is a great hiking buddy !
+2 cute ! where do you hike ? my pet will not travel . she is a cow
+2 i hike in the mountains here in colorado near pueblo . are there mountains near you ?
+2 no i live in the middle of no where . miles of country .
+2 where is the middle of no where ? i live near denver for work .
+2 pennsylvania . amish country . i feel out of place driving my big truck next to buggies
+2 i would be afraid of hitting them with my car !
+2 yeah . that is why i blast my country music . they hear me coming !
+2 haha ! i like to listen to garth brookes when i am rock climbing at the gym !
+2 oh wow ! i never did that before ! sounds fun !
+call_id_30
+0 i see you laughing there . you better not be laughing at my mini van .
+0 i would never do that . i hate my grey dog barnaby and scorpions .
+0 my fourth son hates scorpions too . i do not understand my children .
+1 keep trying . i like grey vans but a nascar car killed my daddy .
+1 sounds like he liked a glass of wine in the evenings .
+1 he does . barnaby is grey , a german shepherd and he hates scorpions too .
+1 kids these days . scorpions are the only thing i ever hear about while coaching .
+1 mom says we are going to sue nascar for killing daddy .
+1 if you can you should go for it . toss me some coffee money when it comes through .
+1 sure , but you have to get in line . my grey dog barnaby is dying too .
+1 you know my fifth son keeps asking me for a dog . it is just too much .
+1 he can have mine . barnaby needs a new home .
+1 i have to decline , my fifth son is my least favorite ; we keep him in the attic .
+1 oh okay . does he play with scorpions or dogs ?
+1 our scorpion pit is located in the basement .
+2 great ! my dad died in a scorpion pit while driving a nascar car . you dance ?
+call_id_31
+0 hello how are you today ?
+0 good you ? coloring my adult coloring book , do you like them ?
+0 no i think they are for whinny illiterate millennials
+1 well how rude of you . where do you live ?
+1 in nyc i work from my condo
+1 glad we do not live close . i am from a rural part of the u . s . , we farm .
+2 cars is what i spend everything on
+3 that is cool . do you like hockey ?
+3 i love it all those pucks
+4 i do too . especially nhl . have any pets ?
+4 i have dogs and cats
+4 i have one dog , he is a german shepherd .
+5 do you like fruits or veggies better ?
+5 fruits , what about you ?
+5 i really like oranges a lot
+5 they are decent ! my favorite is strawberries .
+call_id_32
+0 hi how are we doing this late night in october ?
+0 i am great ! just been looking on twitter at news
+0 yes let us get to know each other bit that is cool .
+0 tell me about yourself ?
+0 i like to gamble on my spare nights not cool huh .
+0 depends if you win or not lol
+0 yes it sucks loosing i also enjoy lawn mowing on sunny days .
+0 i enjoy green living and just put solar panels on roof
+0 sounds interesting i also love grilling my food outdoors .
+0 yummy , i love cookouts . i am involved women rights movement
+0 that is good i have not been working for a few years .
+0 i work from home doing internet searches
+0 great wished i could get a work at home job .
+0 it has its benefits . i have plenty time tend my organic garden
+0 that sounds interesting i like organic foods .
+0 they are so healthy for you
+call_id_33
+0 hello , how are you doing tonight ?
+0 good , how are you tonight ?
+0 i am great , just chillin playing some guitar
+0 awesome , what are you playing ?
+0 hank williams . . . . i grew up on country music
+0 i like country too ! i am kinda tired tonight from a long day at the shipyard .
+0 oh yea ? what do you do there ?
+0 i am newly retired from the navy . i am a captain
+0 very cool . . . i sing for a living !
+0 that is amazing ! living the dream huh ?
+0 yes , absolutely ! gonna make it big one day
+0 i hope you do ! my passion is making a difference in the world .
+0 that is amazing . we need more people like that !
+0 do you volunteer with any charities
+0 sadly , no i do not
+0 i highly encourage you to , especially after you make it big !
+call_id_34
+0 hi how are you
+0 i am doing well today
+1 do you like playing musical instruments ?
+1 i like the drums a lot
+1 i play several and my father played violin ! what else do you like ?
+1 i can tell you what i do not like
+1 what do you not like ?
+1 school . i really really do not like it
+1 i do not like school much either
+1 at least we are on the same page
+2 do you like volunteering anywhere in your city ?
+2 i do not like people
+3 i like people and exploring new places in the city . do you like animals ?
+3 i do . they are quiet and peaceful .
+3 that is awesome . is there anything else you like or do not like ?
+3 i do not like people
+call_id_35
+0 hello , call of duty is my favorite game . do you game ?
+0 yes i do after all i am a engineer .
+0 nice . my cousin is an engineer and hates video games . but i love donuts .
+1 i am actually a recording engineer . do you have kids ?
+2 so is my cousin , so cool ! no kids , but i do love icp , the band .
+2 oh ok . i am a single dad . and my recording artist died last year . bad luck !
+2 wow , you ok ? did your artist use a ford pinto ? that is what i drive .
+2 i am fine . he just had a n accident here in california .
+3 i do live rpg events over the weekends .
+4 that is cool . i am 46 how about you ?
+4 i turn 83 in a month .
+4 . oh wow . are you retired ?
+4 no , i professionally stream on twitch .
+4 oh i have never heard of that .
+4 it is a streaming platform for gamers .
+4 oh ok , i guess i do not know much on the music side .
+call_id_36
+0 hi lets get to know each other
+0 that sounds awfully familiar to me .
+1 do you enjoy sports much ?
+1 i football is the best . go alabama tide !
+1 football is good . i prefer solo stuff . i am a gymnast
+2 i have a brother and 3 sisters
+2 are you guys close ? i am an only child
+2 no we are not , i am more closer to my dogs honestly
+2 too bad . but at least you have them , what breeds ?
+2 ok i will be sure too
+2 what kinds of dogs are they ?
+2 i already told that to you
+2 sorry i only see that you are close to them
+2 ok then . well its been nice chatting with you
+2 i guess you too . are you leaving now ?
+2 thought this was over , guess not
+call_id_37
+0 hello ! how are you today ?
+0 my favorite type of music is from the south
+0 awesome ! i really like dancing to that kind of music , especially in the moonlight .
+1 i am the head worker of a small store
+1 very nice , what does your store sell ?
+1 my store sells everything you could possibly need !
+1 great , are there weights ? i am strong for my age , but would like to get stronger
+1 there are weights for sure !
+2 guess how old i am !
+2 i am not sure ? how old are you ? ! ?
+2 i am 100 ! i feel like at this point , i might live forever .
+3 i have a very nice car ! it is a pathfinder by the company nissan !
+3 nice , when did you get it ?
+3 i got it this year ! i love it
+call_id_38
+0 hello friend , have you ever seen dog agility ? it is my favorite sport !
+0 i have not it sounds interesting
+0 i compete at it , when i am not dancing
+0 cool ! my only pet is a cow
+1 are you a dairy farmer or something like that ?
+1 yes my parents are , i work for them
+2 cool . i do not care for fashion , but i do wear western clothes when i line dance
+2 i live line dancing to country music , that is all i listen too
+2 me too . i discovered my love for it while getting my degree in chemistry .
+2 cool ! i am always playing country in my big truck !
+2 it was the only station i could get in my laboratory , and now i am hooked
+2 lol chemistry seems like an interesting career .
+2 i would not know , i work at a book store now .
+2 cool , do you like to read ?
+2 love it . james joyce is my favorite author .
+2 awesome , i hardly ever read .
+call_id_39
+0 hello how are you today ?
+0 exhausted ! i was out clubbing all weekend . my legs are tired from grinding .
+0 really i have not done that in years , i am just a lonely
+0 are you ok ? i know chemistry . i could make you an aspirin !
+0 i am ok my husband is a doctor so i can get any medicine i want
+1 wow , good for him . i just work in a bookstore . . .
+1 oh wow that cool , you get free knowlege
+1 i majored in chemistry so i already have enough knowledge for a lifetime .
+2 really that is awesome do you have a girlfriend ?
+2 no . all of the girls here wear orange . i hate orange .
+2 do you want one ? i could leave my husband for you
+2 wow that is saucy . just one rule wear anything you want but orange things .
+3 that is my favorite color though , can you handle my three story mortgage
+3 i am already deep in student loans , so i do not care !
+4 whats your average salary i need to know since my family grows
+4 about 15k . i spend most of that on weekend clubs and raves though .
+call_id_40
+0 hi , just got back from riding my horse ! you ?
+0 hey , i am in high school and i want to be a physical therapist .
+0 good for you ! i do some farming , so i might be calling you !
+0 awesome ! i make all as in school so i could help you !
+1 great , i hope you like music , i rock out when i work !
+1 yes , i love music ! so we can definitely rock out .
+1 i have a couple horses , and they like to rock , too !
+1 cool ! i am a homecoming queen that loves horses .
+1 you must be very popular and a good person , too .
+2 yes , i set a goal to actually run a k this year too !
+3 i get my exercise tending the farm !
+3 i am sure you do ! i bet it is fun there !
+3 come run a few laps here , it is quite a few acres !
+3 i just might do that ! i want to achieve my goal of running a k !
+3 i am sure you will succeed and win the race , too !
+3 i hope so ! after i get out of high school i want to run more !
+call_id_41
+0 hello . my wife left with the kids two weeks ago .
+1 i understand because i have dogs too .
+1 i am an rn in a nursing home . we have dogs there .
+2 i hate dogs but love to knit its kind of my passion
+3 the ladies here knit , while watching the pastors on tv . i am an atheist .
+4 you are just scared of dying like me . that is why only love baking cookies .
+4 no , i am not . i work with dead people all the time .
+5 sure . . . i am heading back home to the country so i can enter a bake sale .
+5 i am overweight , bake sales are not a good idea for me .
+6 i do not think we should be friends
+6 i did not realize we had to be .
+6 i just wanted to stop talking to you really
+6 then do not respond , no rule says you have to speak to everyone that says hello .
+6 rules ? what rules are you talking about dude , no cookies for you
+6 wow . you may want to see a therapist with all of that anger you have .
+6 i love cookies and bake sale but you are freaking me out .
+call_id_42
+0 hey how are you doing tonight ?
+0 hi there , how are you ?
+1 doing good , watching friday , my favorite , and looking on indeed .
+2 i teach in the summers ?
+3 awesome ! maybe you could help my daughter , she is so smart .
+4 does she own dogs like me ?
+5 no we do not . we would not have time , with my busy schedule . i am a pediatrician
+5 i always go to church
+6 that is cool . what grade do you teach ?
+6 i hold an outdoor class
+6 oh wow ! what is it about ?
+6 i teach walking and hiking mostly
+6 so a gym teacher ? or trainer ?
+6 i do not really like labels
+6 well okay then lol i am not sure if that would be a label
+7 do you have any pets ?
+call_id_43
+0 hi there how are you tonight ?
+0 well . better now that i am in remission . how are you ?
+0 wow well i am glad for you congrats my step mom is going through stage 4
+0 so sorry to hear that . she is in my thoughts .
+1 thanks are you married ? any kids ?
+1 i have many kids and grandkids to keep me busy . how about you ?
+1 i have 2 kids with my spouse
+1 how wonderful . life is precious spend as much time with them as possible .
+2 yea but i love time to my self as well like every year i see rolling stones
+3 that sounds like fun . i enjoy making clothes for my family .
+3 really i use to dumpster dive to recycle clothes for homeless no lie
+3 helping others makes life meaningful and i cherish it more now .
+4 well now with my major in economics i love guiding people with there money
+4 too bad my cell phone broke . i would love to text you about my finances .
+4 o no yea i am always willing to help
+4 great we should exchange emails !
+call_id_44
+0 just got back from playing with barnaby , my dog !
+1 i just watched snoop and martha
+1 cool , i deliver mail , and get a lot of martha catalogues !
+2 i love to eat vegetables and unique things
+3 that is great , i like my food grey , the color i like on everything !
+4 awesome , i just came here from another country
+4 wonderful , i hope there are no scorpions there , they scare me !
+4 do you like adventure i do
+4 i like fast cars , nascar was what my father did !
+5 awesome does he like to go to germany
+5 oh , of course , it is beautiful there !
+5 maybe he can skydive to see a better view
+5 ha ha ! that would be great ! you skydive ?
+5 i want to but no highest i got was rollercoasters
+call_id_45
+0 i just finished spending some time watching birdy fly with my cats .
+1 hello i am sara who are you
+1 i am just an old man with rainbow hair
+1 i am 7 and i have powers that no one knows about
+1 i have powers too as an animal activist !
+1 i can make the whole world pause ! freeze time
+2 that makes me kind of depressed , but not as much as holidays do
+2 awe i love christmas you do not like it ?
+2 no because nobody comes to visit me i spend it alone
+2 awe i am lonely a lot too i live in a orphanage
+2 that is very unfortunate of you , maybe you should come live with me !
+2 do you have room for me ?
+2 yeah i have a house with 3 bedrooms and i am the only one here
+2 wow that is a huge house
+2 yeah i would love some company !
+2 you would not be scared of my super powers
+call_id_46
+0 hello , how are you today ?
+0 not bad at all , rain got in the way though . how are you ?
+0 i am doing well . where is it raining ?
+1 ma . i was gonna finish a roof today . at least the cats will not miss me
+1 my cat just got out , i hope she comes home soon the streets are busy .
+1 ooh , if one of mine got out i would panic .
+1 ya the streets of bejing are not kind to a little kitten .
+1 i will say , hope you find her soon . so otherwise how is your day ?
+1 it was pretty decent . i won my ping pong match .
+1 i am terrible at that game , give me a hammer not a paddle
+1 what other kinds of things do you fix .
+1 i build houses , sometimes i fix them , have my dads genes .
+1 maybe i do too . he is an electrician i pay electric guitar .
+1 close enough i suppose , my dad put a hammer in my hand at 2 .
+call_id_47
+0 hello , how are you ? did you major in chemistry too ?
+0 i am angry . my parents keep making me go to school even though i hate it
+0 omg me too ! i graduated , but ended up working at a bookstore !
+0 dose your bookstore sell p o box ? i know some do and i love it .
+0 sorry , no , and they went out of business . it was a weird fashion hipster place .
+1 i do not have that many friends to play with anyways . how old are you ?
+1 i am 35 . but i still go dancing on the weekends ! how old are you ?
+1 12 . i want to leave school as soon as i am old enough .
+2 do you have a hobby ? mine is competing in dog agility . makes the time pass . . .
+2 i stay away from other girls that are jealous of my long red hair and blue eyes
+2 good decision ! i usually do not care about fashion , but i like doing hair color .
+2 oh cool . have you done anything else fun ?
+2 i bleached my hair . black now blond . just hate that orange between the two bleaches .
+2 i do not bleach my hair . mine is natural and goes down to my waist
+call_id_48
+0 hi how are you , i am from a small area , where are you from ?
+0 hi there i am from america but my family moved down to south america
+0 cool , i lives in america all my life , i live in a small town
+0 i used to live in minnesota
+1 are there many lawyers there ? i would love to be a lawyer
+1 uh i have no idea
+1 i would love to move to a big city and become a lawyer
+1 ok sure i want to make computer like my dad used to
+1 that is great , please tell me more interesting things
+1 i had a friend named noah we were friends from ever since we met at 1
+1 cool , do you still talk to him ?
+1 ya not as much since we moved here
+1 how do you like your new life since you moved ?
+1 it is not so fun i have 2 friend who speak a different langues
+1 man i really need to go to the bathroom , what language they speak ?
+1 hmong and french my dad can translate because he speaks hmong and english
+call_id_49
+0 hi want to be my friend ?
+0 sure . do you like to dance ?
+0 i know how but it is not my favorite . i learned at prep school
+0 what was your favorite subject in school ?
+0 i guess math . i am hoping to get into finance
+0 i like math too . chemistry was my favorite subject in school .
+0 that is cool are you a chemist now ?
+0 yeah , i have been for the last 5 years .
+1 good for you . where do you live ?
+1 i live in chicago . what about you ?
+1 i am in manhattan . best city in the world
+1 manhattan does have good pizza .
+1 so i hear . i am more into sushi
+1 i am not a fan of sushi , i like mexican food .
+1 well we have that here too . we have it all
+2 does everyone in manhattan have good fashion ?
+call_id_50
+0 hello . i am dawn . who are you ?
+0 hello . i am leigh . i am at a park i have never been to .
+0 cool . what park ? i won homecoming queen and went to the park that night
+0 not sure . i was just exploring the city and found it . how old are you ?
+0 i am 16 . currently in high school . how old are you ?
+1 i am 34 and i play many instruments . are you in band ?
+1 i am in band at school . i make straight as ! what instruments do you play ?
+1 i play trombone , alto sax , baritone , and trumpet . you ?
+2 i play the sax . do you run ? my goal is to run a k !
+2 i do not run . i am constantly moving at the shelter i work at though .
+2 you should try to run ! its fun ! moving is good too !
+3 no ! i will start violin as a new hobby , like my father .
+3 i did play the violin last year in band . i did not like it
+3 it is not for everyone . my dad made his living . i will try .
+4 did you go to homecoming when you were in school ? i had a blast at mine
+4 i did not go . who did you go with ?
+call_id_51
+0 hi there ! i love to dance , what do you do for fun ?
+0 oh cool . pole dancing ? well i am only 4 and enjoy coloring .
+0 how would you know what pole dancing is then , dear ?
+0 my mom is a pole dancer . my pet turtle is my best friend .
+0 that is so sweet . is that your only friend ?
+0 ya they live next door . and my dolls . i live a sheltered life .
+1 that is ok ! you have plenty of time to grow and learn . i am from far away .
+1 like in the clouds ? i do not really get to see sunlight .
+1 my aunt helped me to escape a dangerous place . now i live a better life .
+2 were you a slave ? sometimes i have to food found in alleys .
+2 i lived in somalia and had to fight to survive . you will make it !
+2 do you own fully automatic rifles then ?
+2 oh honey no , guns are not the answer .
+2 would not that just be your personal view ?
+2 you are only 4 , you should not be worrying about this
+2 my guns have dolls . some of them would not be alive today if they did not .
+call_id_52
+0 hello , my name is leon . i am a audio engineer . how are you ?
+0 hello , leon . my dogs and i are doing well .
+1 that is good to hear ! i have been better , my girlfriend just left me .
+1 oh no . i go to the gym a lot . the treadmill keeps my mind off things .
+1 i tend to stick indoors but maybe the gym will help , thanks .
+1 you are most welcome . the rowing machine is nice too .
+2 that is a full body work out right there . do you live in california ?
+2 sadly , no . my dogs and i are in ohio .
+2 i think i need to move . my studio is tanking after the decline of the market .
+2 oh no . i am moving soon as well . due to personal reasons .
+3 well i hope your reasons work themselves out . what kind of dogs do you have ?
+3 i have a springer spaniel and a lab . do you have pets ?
+3 sadly no , they can be very destructive in an audio booth .
+4 that is for sure . what kind of music ?
+call_id_53
+0 hello , how are you doing tonight ?
+0 great just got back from the gym i go twice a day every day .
+0 i am a teacher , and do not have time to go more than twice a week .
+0 bummer my fav exercised are the treadmill and rowing machine
+0 i love the beach and go for every vacation .
+0 i have to go to the gym a lot because i eat a lot
+0 i am always on a diet , gotta stay bikini ready .
+1 cool i eat a lot when i am bored . pets ?
+1 i have one dog , she is amazing .
+1 i have 2 dogs . i should take them walking instead of eating .
+1 that would be a great idea .
+2 i have been thinking of growing my hair long it is so short .
+2 a change of style is always a good confidence booster .
+3 yeah , that is a nice thought . do you have kids ?
+3 i do not . my fiance and i do not want any .
+3 well , you will have more free time without them anyway .
+call_id_54
+0 how are you doing today
+0 great thanks . what are you doing ?
+0 i am playing my favorite game
+0 hat game ? i love games as well , being 13 and all .
+0 no it is on xbox
+0 i have an xbox too . my older brother never will let me play though .
+0 that is not very nice
+0 no , and i cry about it whilst i am on the bus for school . very sad .
+0 what do your friends think
+1 they try to help me . they also help me with my math , i am terrible at that .
+1 i do not like it either . love music
+1 i prefer soccer , but what music do you like ?
+1 i like all kinds of music
+1 do you like soccer like i do ? i play every weekend .
+1 i play it once in a while
+1 nice , my big brother plays soccer with me sometimes .
+call_id_55
+0 hello . do you play any instruments ?
+1 no i do not but i love dancing wildly to party music . do you own any pets ?
+1 i do . i have a dog .
+2 cool ! i own a dog too ! as well as a cat . do you have a favorite movie ?
+2 no , not really . i like sci fi , as it drives my parents crazy .
+2 that is cool , but i do not really like sci fi . do you read sci fi ?
+2 no . i watch sci fi . mainly , i read supernatural romances .
+2 what kind of supernatural romances ?
+2 any of them that are interesting
+3 cool ! do you like parties ?
+3 i do . we sing folk songs at most of ours . i play guitar .
+3 awesome ! i love parties . i go wild at them .
+3 i do not drink or do drugs .
+4 ok ok . what do you do besides play guitar ?
+4 i am a custodian and a security guard .
+4 interesting ! is that hard to do ?
+call_id_56
+0 hi ! how are you this evening ?
+0 i am well ! just got back from taking a walk .
+0 same here ! i am a professional dog walker . just walked two labs .
+0 oh that sounds fun . i like dogs .
+0 me too ! i love kayaking almost as much .
+1 i love hamburgers and french fries , but not soda . are you married ?
+1 no , single . i just graduated college . you ?
+1 i am married and we just bought a house .
+1 oh , very cool . i hope you two like it .
+2 yes it is nice . is kayaking dangerous ?
+2 depends on where you do it . on rapids , yes . on streams , not so much .
+3 i see . what did you major in ?
+3 psychology . i read a lot of psych journals in my free time as well .
+3 that sounds like a lot of work .
+3 it was . getting started on the phd next year .
+3 education is something that no one can ever take away .
+call_id_57
+0 hello . how are you today ?
+0 good today . just cooking some mexican food . i cooking but am not very good .
+0 oh i like mexican food , but my favorite food are cheeseburgers
+1 i inherited some money and bought a yacht to travel , i try different foods traveling
+1 i help out at a soup kitchen since i grew up poor .
+1 cheeseburgers are great , i try all kinds of foods everywhere i go , gotta love food .
+2 yes , do you like war documentaries ? i do
+2 i like travel logs and have been all over the world for years since high school
+3 sounds great , i am retired , i was a gym teacher
+3 i need a job and will put my yacht up for rent . i could teach .
+3 sounds like a good plan , what would you like to teach ?
+3 economics would be my first choice .
+3 that sounds good , i bet you would be a good teacher .
+4 i would try . what hobbies do you have now that you are retired ?
+4 watching was documentaries , how about you ?
+4 i like cooking shows . i should probably take some classes to improve .
+call_id_58
+0 stay at home dad here , son is a junior in high school
+0 yo whats up my man
+0 not much my father used to work at home depot
+0 you sound like you are trying to rush through your character
+1 i love scary horror movies , do you ? yup , nice to get it out of the way
+1 not very ethical in my opinion
+1 yeah , well awesome man . i like to be positive
+2 i play music and i rock
+2 yeah ? well in real life i play music and rock
+2 my favorite word is trabajo
+2 yeah it fits you well
+3 i am going to study french next
+3 cool , good luck with that
+3 i also study ebonics and sh
+3 awesome you are stellar , maybe become president ?
+3 no you should do that
+call_id_59
+0 hi ! how is it going ?
+0 i had surgery a week ago now i have stranger powers
+0 wow , like what ? ! a week ago i just moved to my new house .
+0 i am just a boy with a heart outside my body
+0 that is not where it belongs .
+0 had a brain transplant now i move objects with my mind
+0 my son says he can do the same after watching star wars
+0 your son sounds really awesome
+0 he is unique . he has been acting weird since finding out i am pregnant .
+0 wow congrats that is so cool
+1 thanks but it makes my job at the bank really hard .
+1 i bet , are you banking on a girl or boy ?
+1 two girls . i am hoping they are omnivores like me .
+1 yeah nice job getting all those blue sentences in !
+1 i do not know what you are talking about . are you feeling ok ?
+1 yes i am thanks so much !
+call_id_60
+0 hello , how are you ? i am a feminist .
+1 oh my i just love country music ! do you ?
+1 only if they are female singers . solar panels are all over my roof .
+1 solar panels rock ! i have actually met the taylor swift herself
+1 seriously ! ? i only buy organic food like taylor swift .
+1 that is great . i manage a convenience store
+1 wow . can i have organic stuff ? i am browsing the internet a lot .
+1 oh of course ! i drive a pathfinder , nissan , i need a new one
+1 try to win one off of a twitter contest . i did , and enjoy twitter .
+1 i did not know there was a twitter contest
+2 ya , are you a female ?
+2 yes i am , i am 40 years old
+2 females rock . my armpits are very hairy .
+2 are you a woman ? if hair is your thing yay you
+3 yes i am a woman . i used to raise wild frogs .
+3 oh i love frogs , and frog legs
+call_id_61
+0 hello ! how are you this evening ?
+0 good . watching the race . and you ?
+0 ok , for someone with their heart outside their body .
+0 oh man . how did that happen ?
+0 born that way . had to have a transplant , but it seems ok now .
+1 crazy . what do you do to stay happy ?
+1 i really like moving stuff with my mind . and you ?
+1 what ! i just need some good tacos and nascar .
+1 i know , sounds unbelievable but its true . i like tacos .
+1 the guys i work with make some great ones on fridays .
+2 awesome . where do you work ?
+2 i work in construction . started when i was 16 .
+2 that is pretty young . i would like to do that kind of work .
+2 i think that mind you have can make you more money .
+2 i do not tell anyone about it . they will come take me away .
+2 take you away from where ?
+call_id_62
+0 hi . just got done with my training run . training for a marathon .
+0 nice ! i just like to eat food haha .
+1 after surviving cancer , i try to stay healthy
+1 i try to eat healthy but it does not help when i can not cook well
+1 yeah . maybe i could help . i am a recently hired life coach .
+1 i been across the globe for years eating food and now i am fat .
+1 well take baby steps . i am fortunate my parents were into sports .
+1 i will rent you my yacht for free for helping !
+1 okay . that is a plan . we should meet for a run .
+1 sure ! the last time i ran was when i was 13 which was like 10 years ago !
+1 okay we will start with a half mile . baby steps .
+1 i can cook for us after our run . i need the practice haha !
+1 i will not make a mess , but lets eat healthy , okay ?
+1 how about a salad then ?
+1 sounds good . maybe a lite dressing with it .
+1 what is your favorite dressing ?
+call_id_63
+0 hello . do you like painting ? i used to be a painter , it was a good life .
+0 hello , i like wine and coffee .
+0 drank a lot of both in my 56 years on this darned planet .
+1 i coach little league and have five boys , i need both to help me deal with them .
+1 i have two kids of my own , grown up now . they never visit . ungrateful .
+2 i am stuck with mine awhile , along with my mini van .
+2 i wish i could buy a car . i cannot afford it on a housekeeper wage .
+2 maybe you should find a second job .
+2 where , at hooters ? i am 56 year old woman , not what i used to be . . .
+2 age is only a number . you are only as old as you allow yourself to be .
+2 i like your optimism , i suppose i could learn a thing or two .
+3 it is never too late to learn . i am going to photography school .
+3 i do not think art is the right choice , it did not do me any good .
+3 then it was not your calling , it is mine .
+3 sometimes one has to give up their dreams so someone else can have theirs .
+3 no , you find your own dream .
+call_id_64
+0 hi my name is jill how are you today ?
+0 i am doing well . about to go to my job at burger king .
+0 what do you do there at burger king ?
+0 i am only 19 and work the grill . i just want to have fun with friends .
+1 that is cool i still attend high school
+1 i want to move out . i am drug and booze free though .
+2 what kind of fun do you and your friends like ?
+2 i play music . i am going to be a rockstar .
+2 i hate drugs and do not drink either what kind of music do you play ?
+2 scottish black metal . i play electric bag pipes .
+2 wow i have never heard of electric bagpipes . are there any videos of them on you tube ?
+2 yeah , i have videos of me on there . i invented them . they are sweet .
+3 i am sorry but i do not think you ever told me your name .
+3 my name is cletus huckleberry . nice to meet you .
+call_id_65
+0 hello , how are you doing today ?
+0 i am well , how are you ?
+0 good . just got back from a nice long walk with my dog .
+1 cool . so what do you do for fun ?
+1 well i play tennis professionally and take care of my growing family .
+1 i am a dj . really into eighties hip hop
+2 nice , do you have any pets or children ?
+2 nope no kids or pets . what about you ?
+2 yes , 2 dogs and 3 soon to be 4 children ! good thing i have a big house
+2 that is a pretty big family . . must be hectic
+2 very much ! and my husband is a doctor , so he is never home .
+2 well at least he makes a lot of money lol
+3 true . do you have any hobbies ?
+3 i like to dance and cook . you ?
+4 mostly read and walk . where are you from ?
+4 i am from boston massachusetts
+call_id_66
+0 hi ! trying to hangout online to not have to listen to hubby watching sports !
+0 what sports is he into ?
+0 he and i both love most sports , but i prefer track and he likes golf !
+0 i like swimming . i coach locally .
+1 you do ? how fun . are you a guy or girl ?
+2 a guy . where abouts are you ?
+2 hawaii . moved here from texas and love the blue ocean and skies here
+2 i d love to see america . i hope to work there one day . i live in india .
+2 that sounds wonderful as well . a bit hot maybe
+2 the humidity is lethal . texas gets pretty hot though doesn t it ?
+2 horrible . humid too . i prefer hi since besides running i surf .
+2 wow . you sound cool . i code and listen to music . boring life .
+2 just start creating using music and code . not boring but creative !
+2 my programming skills will need some work , i m still studying .
+2 that s okay . at least you re still growing and moving forward
+2 my mother thinks i should just get married and stay in india .
+call_id_67
+0 hi , i just got an apartment with my best friend !
+0 very nice ! my boyfriend and i move into our new on next tuesday
+1 awesome , i do not care for chicken , but i am a blonde with blue eyes
+2 do you like photography ? i do it as a side business .
+2 yeah , i sure do , i take lots at the bar , i work there , saving for college
+2 i teach fourth graders , most nights i need a drink .
+2 yeah i hear ya man , i really do teach fourth graders
+3 do you have a girlfriend ? my boyfriend says i am always playing matchmaker .
+3 i do not too busy with my band and teaching
+4 what subject do you teach ? i teach history .
+4 i teach piano , and vocals
+5 how many languages do you speak ? i am up to three .
+5 i am at 2 , spanish and english
+6 i speak those and french . do you like red or silver ?
+6 i like silver more , i think it looks sharp , especially chrome
+6 i am more partial to the muted tones of each color .
+call_id_68
+0 hello , how are you today ?
+0 i am very well ! how are you ?
+0 i am tired , now i am just taking a break from unpacking boxes .
+1 i like listening to rap music
+1 with kids in my house i can not listen to rap anymore .
+2 i understand . did you attend college ?
+2 yes i am a teacher at a local school . what do you do ?
+2 i am a college student at a local university
+2 what are you going to school for ?
+2 athletic training ! it is interesting
+2 i am about to go on maternity leave . i am having triplets soon .
+2 wow ! wish i was your husband
+2 we just bought our first home and now kids are filling it . lol !
+3 i love pizza , favorite food
+call_id_69
+0 hello . how are you tonight ?
+0 ruff , hey ! ruff ruff . how are you ?
+0 i am good . are you a dog ?
+0 nothing just singing and looking at my building blocks ! ruff
+0 i had blocks when i was little . but i am in grade 3 now !
+1 not yet ! but i will be soon ! but i have to give up chocolate .
+1 why ? chocolate is great ! i get special candy in disney world every summer
+1 wait . . . what ? i am confused . dogs ca not eat chocolate and i will be a dog soon .
+1 you are hard to understand . let it go ! let it go !
+2 i love snow , i can roll in it ! dogs can not go to disney ruff
+2 disney has dogs ! pluto is a dog ! but i like mickey better ! my favorite !
+2 maybe i can teach pluto abc song ! i want to be a dog just like him !
+3 you can ! that would be fun . how old are you little doggy ?
+3 i do not know , what do you mean ? do you like chocolate ?
+call_id_70
+0 hello , how are you today ?
+1 good i live in ohio working as a doctor looking for a job in california
+1 i have never been to california . i work in it from home .
+1 working from home would be nice . i am moving for my daughter , she is a prodigy .
+1 it can be lonely , i sometimes go to the gym just for the interaction .
+2 very nice i go to the park for that . do you like movies , my favorite is friday
+2 i love movies , i spend a lot of time watching tv , probably too much lol
+3 i wish i had more time for tv , what is your favorite show ?
+3 i would say the walking dead . what about you ?
+4 walking dead is mine too . any hobbies ?
+4 working on my cars , what are your hobbies ?
+4 chasing my daughter around , i like to paint when i can .
+5 nice i had a girlfriend that was an artist . kids are a lot of work .
+5 yes they are but they are worth it . do you have kids ?
+call_id_71
+0 hi want to get to know each other ?
+1 sure thing . what is your job ?
+1 i just got hired yesterday as a life coach , thanks for asking
+1 wow , i am a dog walker . that is way cool
+1 does that make you happy ? do you like dogs ?
+1 yeah dogs are cool . i kayak too . do you have pets ?
+1 i do not . but i am so glad you do something that brings you joy
+2 yeah . what do you like to do ?
+2 i got really into running after i beat cancer
+2 wow you must be brave
+2 just determined . i am not taking my second chance for granted
+2 good idea , you sound like an amazing human
+2 thank you so much . it is all about clean eating and being self aware
+3 makes sense , you would be a good role model . any children ?
+3 no , not yet . do you ?
+3 yes , a new little one on the way too
+call_id_72
+0 hi how are you doing
+0 i am doing very fine this afternoon . how about you ?
+0 i am good getting ready for school
+0 what are you going to school for ?
+0 high school i am so ready to graduate
+0 will you be driving to or living on campus ?
+0 i will probably be living on campus
+1 what kind of music makes you feel good ?
+1 really any kind what about you
+1 i enjoy listening to classical music .
+2 that is nice do you like sports
+2 it depends on the particular sport .
+2 i like to spend time with my horses
+3 i am more concerned with my religion .
+call_id_73
+0 hello i am in canada where are you ?
+0 i am in a jail for kids
+0 for kids ? that does not make sense .
+0 i got caught shoplifting and they locked me up
+1 how is that because of kids ? did you graduate from high school ? i did not .
+1 i am still a kid . i want to go back to school
+1 graduate well your in jail . come out better then you went in .
+1 i get out next month . my mom is visiting tomorrow
+1 well make a plan with her to get your life back on track
+2 do you work ? what do you do ?
+2 yes in the army . you could try that when you get out
+2 do you like working in the army ?
+2 yes it is a bit of a family thing . my grand father was in world war 2 .
+2 i guess that made your decision to enlist easy
+3 yes it did . what do you want to do ?
+3 i have not given much thought to what to do when i get out .
+call_id_74
+0 hello ! how are you today ?
+1 great ! relaxing , taking a break for a few . i was playing a video game .
+1 what video game ? i relax by knitting . love it !
+2 i was playing fall out . what do you look like ? i m blonde thin .
+2 i am an older woman who is afraid of dying .
+3 i hope your youth was full of music . i love music .
+3 i do not love music much now . i do love baking !
+3 me too , as i wear my favorite band t shirt s for inspiration
+3 who is your favorite band ? i have a shirt with my dogs photo on it i wear .
+3 that s cute . my favorite band is fall out boy . yours ?
+3 waylon jennings is my favorite ! next weekend is county wide bake sale . you coming ?
+3 i m in jersey . i m a runner . i have a marathon next weekend .
+3 oh good luck ! the bake sale feels like a second home to me !
+3 i bet . what are you making ? i have a great pb cookie recipe .
+3 would you share ? cookies are my favorite to bake !
+3 1c pb , 1c sugar , 1 egg . mix and roll . bake for 10 12 mins .
+call_id_75
+0 hi . i just got done eating vanilla ice cream . no self control with it . you ?
+0 i am the same way with rap
+0 rap is cool . my cats like it , both of them .
+0 i produce rap for people .
+0 maybe you could make a rap about my 1000 hats . i am a collector .
+0 sure while riding in my honda civic
+0 when you finish that you could make a rap about my 1992 olympic gold .
+0 then we can celebrate with pizza
+0 yum ! and vanilla ice cream .
+0 right is it not the best ?
+1 sure is . it is right up there with winter . love winter .
+1 it is a great time of year
+2 so do you have other hobbies ?
+2 i play the piano sometimes
+2 i love piano music . do you play jazz ?
+2 i do sometimes for fun
+call_id_76
+0 hello ! you should friend me on facebook .
+0 friend ye ? i hardly know ye . . .
+0 that is true . but we can chat there too
+1 where do you live ? i am in cali .
+2 i like in indiana . recently single since my ex left with our kids .
+2 my ex left me too . cheated on me as well .
+2 i hate that . took my belief in god away
+2 well i am an atheist so that was not a problem for me . but it sucked .
+3 i bet . i miss my children
+3 my ex left the kids . but some days i wish she had not . . .
+3 i understand that . kids can be very tiring
+4 do you like music ? i am in the industry .
+4 i do . mainly classical . what do you do ?
+4 i have a studio and i help people record music .
+4 that sounds much more fun than taking care of old people like me
+4 do you work in a nursing home ?
+call_id_77
+0 hi there , i am bob .
+0 hi ! i am andy .
+0 i ended things with my boyfriend
+0 really that is sad . i work as an elementary teacher .
+1 nice , i am 18 now
+2 great . my father was a teacher too so
+2 did he hike like i do ?
+2 no he did not . he and i enjoyed time in the beach .
+2 i really like sunsets most
+2 that is really amazing . i hope you do great . ahead .
+3 do you have pets ? mine is a fish
+3 i have a dog whom i love . your fish seems amazing .
+3 it really is amazing as a pet
+3 i hope it will always be with you in rough times .
+4 but will be better as sushi
+4 i agree . they are great sushi
+call_id_78
+0 hello i love music . are you familiar with tom petty ?
+0 hi ! i do but i rarely have time to listen in between school and work .
+1 what is the focus of your studies ?
+2 are you in school too ?
+2 no . i finished in 1995 . what year are in ?
+2 first year , i just moved here with my best friend for school too .
+2 its great to have friends . i hope you look after each other that is very important
+3 so true ! so what do you do for a living ?
+3 i am in mining but i hate it . what is your field of interest
+3 aside from nursing , i work at a bar to pay for school .
+3 bar work can be fun . you learn so much about human nature . thank you for caring about others
+3 of course , it is like a live sociology class too .
+3 absolutely ! ! the subjects are already prepped with truth serum
+4 i definitely agree ! good perspective . why do you not like mining ?
+call_id_79
+0 hello how are you doing today ?
+1 i am great , i hope you are doing well . where are you from ?
+1 i live in a rural area .
+1 i see . have you lived there for a long time ? we just recently bought a home
+1 no 2 years my husband birth parents live here
+2 that is very nice . life must be very relaxing outside the cities . do you have children ?
+2 no i have 2 dogs
+2 i do not have any pets , but i may be interested in one
+3 what is your favorite sport to watch ?
+3 i do not have any special interest in sports , do you have any favorite sports ?
+3 i like to watch hockey .
+4 i see , do you live in united states or canada ? i heard hockey is very popular there .
+4 i live in the united states . what about you ?
+4 i live in canada , i moved here very recently . what do you do for a living ?
+call_id_80
+0 hi , i m susie . how are you ?
+0 i am good . just got back from some volunteering . how are you doing ?
+1 are you having problems texting ?
+1 i am an old retired guy , so i might be doing something wrong !
+2 i am fine , just getting ready for a walk with my dog .
+2 that sounds like a nice time . i like to try to be active myself . i love walks .
+2 that s nice . i enjoy walking . i try to do it at least once a day .
+2 i used to be a gym teacher so i used to be quite fit !
+2 wow . i m a school teacher myself . i often get exercise dealing with the kids .
+3 definitely ! although now that i am retired i find that i love eating cheeseburgers . . .
+3 i guess you earned the right to do it . i try to stay away from the temptation .
+3 yup . a cheeseburger and a war documentary are my idea of a good saturday
+3 that s funny . mine is a bottle of wine .
+4 that cant hurt either ! what else do you like to do ?
+4 seeing a kid learn is my passion .
+4 that is just great . we need more educators like you in the system .
+call_id_81
+0 hi what do you do ?
+1 i go to school . hate it ! will you be my friend ?
+1 sure ! you can be friends with my 3 dogs too if you are not allergic
+1 oh , i am not ! i am only 12 , though . will they like me ?
+2 i think they will . all of them are friendly ! whats your favorite subject ?
+2 i do not like school at all . and gym is the worst !
+2 i am always walking my dogs so gym activities are fun for me
+3 the boys pull my waist length red hair . that hurts !
+3 aww that is not very nice of them . have you told the teachers ?
+3 no . i just cry out my blue eyes ! they all make fun of me .
+3 well my dogs will not pull your hair if you ever want to spend time with them
+4 okay , thanks ! what do you like to do ?
+4 well i like working in my dog walking business ! dogs are the best
+4 better than kids , that is for sure !
+4 i remember back in school the other kids would always be annoying
+5 especially when you are 12 ! how old are you ?
+call_id_82
+0 i study languages . do you ?
+1 wee ! i have koi fish that the same color as my orange dress .
+2 i like orange . i am studying french next .
+3 great . i like hiking and need a new boyfriend as of yesterday .
+3 what happened with that situation ?
+3 he ate my fish that matched the color of my dress . bummer !
+3 he did that ? how strange .
+4 oh , i could tell you stories . i turned 18 yesterday . you sing ?
+4 i sing in the languages i study .
+4 great ! you know any hiking songs ?
+4 sort of i guess . i know marching songs .
+4 that will do ! i like to hike and sing and wear the color orange .
+4 those are good hobbies to have .
+5 those are not hobbies . they are my life work . you work ?
+5 i am a language scholar right now .
+5 wow ! you know any spanish ? what is amarillo in spanish ?
+call_id_83
+0 hello how are you today ?
+0 not to bad , what about you
+0 i am feeling like 100 bucks
+1 good stuff , what you do for living
+1 i work at a museum as a guide
+1 cool , i am in the army
+2 i lost my hearing in the army . or at least part of it
+2 wow , well thank for serving soldier
+3 i am now peacefully growing my garden
+4 i am from canada , where do you live
+4 i am from boston baby
+5 okay , go boston haha , fav food ?
+5 i like them big fancy teas
+6 sounds pretty yummy , did you go to college
+6 no i did now i had all the books i needed at home
+6 i did not even make it pass highschool
+call_id_84
+0 hello , how are you tonight . do you like horses ?
+0 hi there , yes i love horses and so does barnaby my german shepherd .
+1 that is a cute name . i have a lab named sirius
+2 yeah , barnaby is a keeper and a great scorpion spotter . i hate scorpions .
+2 i do not have them on the farm . i have seen them in the city though .
+2 barnaby found one in my dad old nascar cars right before i sat down .
+2 ugh . i do not think i could live with them .
+3 only when we visit dad they come out . what do you do ?
+3 i am in law school , but i also train horses
+3 that sounds cool , better than working for the us postal service .
+3 i am going to be an agriculture lawyer .
+3 now that is different . i paint in my spare time to stay sane .
+3 i take photos of the horses and scenery .
+4 they make awesome pictures . i love colors but strangely my favorite is grey !
+4 mine is too , but , color is what sells .
+4 yes it does , client have me painting fuschia and other wild colors weekly .
+call_id_85
+0 are you in college ? i am an art major
+0 i am not in college , i graduated with a doctorate degree
+1 that is neat . i am visiting europe again this year , have you ever been ?
+1 farthest i have ever been away from home was at the park
+2 do you have any hobbies ?
+2 going to the park is my favorite hobby . or going to my daughters piano concerts
+2 i enjoy traveling and cooking .
+2 what kind of stuff do you cook ?
+2 paella is my favorite dish to cook .
+2 i have never heard of it .
+2 it is a rice dish from spain .
+2 sounds delicious , i should try it sometime
+3 are you currently working at a hospital ?
+3 yes i am but i would like a new job soon
+3 i hope you find a new job soon .
+3 thank you , i am definitely looking
+call_id_86
+0 hi . how are you ?
+0 hello , i am doing very well thank you . i just came back from a walk .
+0 ah . i love taking walks and taking pictures .
+0 i love photography , i am always photographing my food .
+1 my boyfriend and i will cook in our new place together next week .
+2 that is nice , do you drink soda and eat fast food ?
+2 no . trying to eat healthy in front of my elementary school class .
+3 i like kids , i would love to have a large family .
+3 my students are my family .
+3 how sweet ! more teachers need to have that attitude .
+4 i am trying to teach them spanish and french so they are fluent like me .
+4 at the same time ? does that work very well ?
+4 they learn quickly so yes .
+4 i have heard it is best to learn when you are little .
+5 my classroom is red and silver . my favorite colors .
+5 that is very pretty . like christmas all year long .
+call_id_87
+0 do you like hummus ? i enjoy it very much .
+0 no i do not like hummus . i am locked up .
+1 i am from germany , do you like roller coasters ?
+2 i am using the library at the juvenile detention center .
+3 are you good at swimming ? i can help you get out .
+3 i am a great swimmer . what is the plan ?
+3 do you have access to explosives and or nun chucks and can you skydive
+3 i am scheduled out in a month , but if the sooner the better .
+4 i can get you out tonight , watch the cooking show instructions will be in the credits .
+4 ok , what channel does it come on ?
+4 channel 13 , this may get bloody , but just remember , the banana only stretches once .
+4 i am ready to blow this popsicle stand . lets do this . gotcha , banana .
+5 i just moved here from germany i am sorry i can not help you
+5 what ? you said you would help me , what kind of low life are you ?
+call_id_88
+0 hey ! how are you doing ?
+0 great how are you ? i went to the park today .
+0 i bet that was very relaxing . i wish i could leave the center
+1 what center are you at ? i am work at a center as a doc .
+1 i am at a detention center for juveniles
+2 oh , wow . that is interesting . i have a daughter that is smart .
+3 i wish i was smart enough not to do stupid things like shoplift
+3 oh ! that is one of the reasons i am looking for a new center to work at .
+3 you do not like the place you are at now ?
+3 i need to find a place for my daughter to go to school .
+3 it is good you are close to your daughter . my mom is seeing me tomorrow
+4 changing subject , what is your favorite movie ? mine is friday .
+4 i like comedy movies but do not have a favorite
+5 where does your mom live ?
+5 she lives in texas with me . what about you ?
+6 we live in nebraska . so do you get to leave the detention center ?
+call_id_89
+0 hi ! how are you doing today ?
+0 great , just ate pizza my favorite . . and you ?
+0 that is not as good as shawarma
+0 i am not sure i have hard that . . what is it
+0 it is a very delicious fried eggplant
+0 oh i would like to try that time . . maybe share with charlie , my dog
+0 you have a dog ! what type ?
+0 a pitbull . . i love pits . do u have pets
+0 i do not . canada does not allow pets
+1 oh that is too bad ! i am from chicago
+1 wow what is it like there ?
+1 cold and windy now . . not too great
+1 ouch . it is very nice here like a summer breeze
+1 that sounds great right now , not ready for winter !
+2 i love winter thought , nice and cold
+3 i do not enjoy the driving in my honda civic
+call_id_90
+0 hey how are you doing today ?
+0 hi . good . just got in from feeding the horses . how are you doing ?
+1 how many animals you got and i am doing good
+2 my horse is called buttercup . we have six in all . do you have pets ?
+2 no just listen to some music and relax
+3 yeah . are you from the city ? i dream of moving from this tiny town .
+3 hope your dreams come true just working a lot to pay off my new car
+3 yeah . maybe i can get my law degree . what kind of car ?
+3 nissan and country living fun hope you get your law degree
+4 me too . my dad wants me to raise horses like he has and his dad .
+5 well last night taylor swift signed my shirt she is nice i like horses
+6 you must like taylor swift . that is cool . do you have any hobbies ?
+6 thinking about dye my hair and just work
+7 where do you work ? i am still in high school
+7 manager at a gas station and that good hope your grades is good
+8 grades have to be good for law school . so how is your job ?
+call_id_91
+0 what do you do for a living ?
+0 nothing , too young male and been very i will , too .
+1 i am not i will , but i am overweight
+1 oh , that is not good for your health .
+2 no . it got worse when my wife left me
+3 wow , and i thought having a transplant for my heart that was outside my body was bad !
+3 well , that is bad . i would pray for you but i am an atheist
+4 do you believe in physic abilities like moving objects in same room ?
+4 i will believe it when i see it
+4 that has been happening to me since my surgery .
+4 wow , how interesting ! i should post about this on facebook
+4 you have my permission . lose weight and win your wife back .
+4 i hope i can . she took our kids , too .
+5 i am following your facebook page to see good results .
+5 i spend a lot of time on facebook , so you will see a lot
+5 okay , and you can follow mine if you want .
+call_id_92
+0 hello , how are you tonight ?
+0 i am good and how are you ?
+0 i am doing well thank you . finished up a batch of brownies .
+0 that sounds yummy . i want some brownies
+1 they are so easy to make . do you knit ?
+1 i do not knit .
+2 are you afraid of dying ? i am , my therapists laughs at me for it .
+2 i think i am more afraid of dying alone .
+3 i am always alone , it feels nice . i appreciate nature more .
+4 i love nature ! i am going camping tomorrow night
+4 it is too cold here to go camping .
+4 its just starting to cool off here .
+4 where do you camp ? on the beach ?
+4 i camp out in the woods . too sandy to camp at the beach
+4 i only camp on the beach .
+4 maybe one day i will camp on the beach
+call_id_93
+0 i have cancer and no smartphone
+0 i am sorry , both those things suck .
+1 i sometimes eat the the mushrooms in the garden
+1 you would love the shipyard i work in then .
+2 pizza is good but sometimes you just wanna eat the pepperoni you know ?
+3 sure , how many of those mushrooms have you eaten ?
+4 i do not know , but i need to watch the tv
+5 ok . i always donate some of my salary to charity .
+6 i survived vietnam , like you survive in the shipyard , now i am retired
+6 congratulations , how are you enjoying retirement ?
+6 i have grandchildren , but i do not wanna see those little brats
+6 you do not like children ? i also volunteer at a bunny rescue .
+6 man i was walkin down the street , this dude jumped 300 feet down , landed on his feet
+6 was he spiderman ? that would creep me out .
+6 this one time , this guy turned into a alien , and he teleported , nobody believes me
+6 i believe you , not spiderman but superman .
+call_id_94
+0 hi , how are you doing today ?
+0 just came back from a visit in the city , how about you ?
+0 just play some board games with the family . sounds fun !
+1 do you have any hobbies ? i play a couple instruments and i am a piano teacher .
+1 nice , i play the violin . i try to get a three mile walk into my day .
+1 violin , oh my gosh ! my father was a pro violin player and he showed me a lot !
+1 wow ! did you ever consider violin ? if i am not practicing , i usually unwinding with a book
+1 yeah i actually play the violin , guitar , drums and piano .
+1 that is cool . i bet you are very talented .
+1 thank you . not as talented as my father , but i try !
+1 a lot of people do not have the musical ear .
+2 sorry i gotta go soon , the people at the homeless shelter are waiting for me .
+2 nice ! how often do you volunteer ?
+2 i am a weekly volunteer , i just love helping people ! anyways i gotta go , bye !
+call_id_95
+0 how are you doing today ?
+0 hello i am good , how about you
+0 a little rough , broke up with my boyfriend a few months ago .
+1 i am moving in with mine next week
+1 good luck , i just turned 18 so a bit young for that stage of life .
+2 what can you tell me about yourself
+2 well i love sunsets so i go hiking often .
+2 i like the colors red and silver
+2 i am a fan of orange , which is why i have pet clown fish .
+2 i teach at an elementary school
+2 so does my mom , i am in high school
+2 i am fluent in french
+3 have you gone to france ?
+3 no i would like to though
+3 i have visited paris but that is it .
+3 how was it over there ?
+call_id_96
+0 hello . can you move objects with your mind ?
+0 hi how are you doing ? i am okay no i wish i could .
+0 i am great . i had heart surgery and woke up with weird superpowers .
+0 i am so sorry to hear that i believe your powers are from the lord .
+0 i do not know . my heart was outside of my body now it is in .
+1 i tend to watch large amounts of t . v . on free times .
+1 i love the walking dead . are you a fan ?
+1 yes i am a fan and love zombie and vampire movies too
+1 i like captain america and star wars .
+2 what super powers did you awake with ?
+2 moving objects with my mind .
+3 ok that is cool and i like going to the gym most days .
+3 i like to swim and walk on the beach .
+3 i have a job inside my apartment i like working home .
+call_id_97
+0 hi how are you doing
+0 i am good , preparing for my new job . you ?
+0 i am moving things around in my room
+0 i could coach you in how to do that if you want
+0 how would you do that ?
+0 i am a life coach so we could discuss
+0 that is cool the things i move are moved with my mind
+0 oh wow interesting . i move my body by running
+0 that is cool i do not excercise a lot
+0 you should ! exercise and clean eating are so important
+1 that is true what do you like to do
+1 i like to run marathons just like my parents did
+1 that is nice that you do things after your parents
+1 i admired them and their athleticism very much
+2 that is cool what kind of food do you like
+2 i follow the paleo diet . you ?
+call_id_98
+0 hi , tracy here . i am biracial , waitress in the daytime and race motorbikes at night .
+0 hi there . i am invincible who could probably live forever
+1 wow ! i have olive skin and doe brown eyes . you believe in god ?
+2 yes . and i have lived for 100 years !
+3 great ! my helmet is red and my motorbike is blue and my eyes are brown .
+4 well . i think my longevity is due to wine drinking and dancing under the moonlight
+5 cool ! i hope you live another 100 years . is dancing your work ?
+5 no , but i am so old , i remember the time before a television .
+5 wow ! are you strong like me . i love to drink red wine under the moon .
+5 yes ! i am very strong for a 100 year old !
+6 great ! i will be a 101 tomorrow . you like radio programs ?
+6 radios , not so much . i remember the time radios shows were the norm !
+7 funny . you exercise to keep strong like me . red wine is good .
+7 red wine is indeed delicious , but they stain your teeth !
+call_id_99
+0 hello , how are you tonight ?
+0 i am tired . i played all day long .
+0 what did you play ? i walked dogs for nine miles total .
+0 i played with my toys in my room .
+1 do you like dogs ? i have three .
+1 yes . i like dogs . what kind are they ?
+1 i have a lab and a mixed breed .
+2 my best friend has a cat . she lives next door to me .
+2 i like cats . do you play with her a lot ?
+3 yes . we play with our dolls together . how old are you ?
+4 i am 26 . do you need a babysitter ?
+4 i am only four years old . i do not like my babysitter .
+4 tell your parents . you should always like the one who is watching you .
+4 she gets mad at me when i do not clean my room .
+call_id_100
+0 would you like to grab a coffee ? i am dying for a mocha .
+0 coffee is my passion , so yes !
+0 the last person i had coffee with kept trying to add schnapps . not cool .
+0 not at all . i do not drink any type of alcohol .
+1 if you love mountain biking too i will eat my fathers hard hat
+1 no , i am kinda a quiet family man . my wife and kids rock .
+2 haha glad to hear that . how many kids do you have ?
+2 three . it is all fun and games until someone tries to steal my chocolate ice cream .
+2 no worries i took up mountain biking when i put down my ice cream spoon
+3 much healthier . do you work ? i own a plumbing business .
+4 i used to do a bit of construction . want to be an architect . any hobbies ?
+4 i like to read and play video games . i mostly just spend time with my family .
+4 that is cool . what do you read ?
+4 mostly fiction and biographies . i like those two genres the best .
+4 have you read team of rivals ?
+4 i have not . however , it does sound interesting . i will look for it .

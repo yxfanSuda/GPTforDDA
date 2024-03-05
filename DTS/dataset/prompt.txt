@@ -1,0 +1,1 @@
+Please identify several topic boundaries for the following dialogue and each topic consists of several consecutive utterances. please ouput in the form of {'topic i':[], ... ,'topic j':[]}, where the elements in the list are the index of the consecutive utterances within the topic, and output even if there is only one topic.
